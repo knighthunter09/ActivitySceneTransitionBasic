@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\VIJETA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-a309f4afb964ea3d02dd8ad670f12b09dd24a4ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\pre-dexed\debug\classes-10ee89ac8d402583388cb537ab129f00b781c309.jar" />
+    </item>
+    <item
+        jar="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\pre-dexed\debug\classes-90f8f816a6873cce41201ff51bcef00a2ff166ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\pre-dexed\debug\classes-4f4891892dca0281e9f057e0b92926ff982938f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\VIJETA\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\pre-dexed\debug\picasso-2.4.0-cd17e514a4e96253fa48d916d1114dce38210654.jar" />
+    </item>
+    <item
+        jar="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-debfe744f384d81fc4b6e17397ba3f2be138f146.jar" />
+    </item>
+    <item
+        jar="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\VIJETA\AndroidStudioProjects\ActivitySceneTransitionBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-55090036f7613f4190e84af4e6be81ebeec6655a.jar" />
+    </item>
+
+</items>
